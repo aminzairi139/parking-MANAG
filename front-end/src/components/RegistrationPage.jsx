@@ -171,6 +171,8 @@ function RegistrationPage() {
             {submitting ? "Création..." : "Créer mon compte"}
           </button>
         </form>
+        <hr />
+          <br />
         <p className="registration-login-link">
           Déjà un compte ? <Link to="/login">Se connecter</Link>
         </p>

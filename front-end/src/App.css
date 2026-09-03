@@ -24,7 +24,7 @@
 
 body {
   background-color: var(--bg-body);
-  backgrou: url(../public/maps.png);
+  background-image:url(../public/image.png);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
